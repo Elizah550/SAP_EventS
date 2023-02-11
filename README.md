@@ -38,7 +38,7 @@ Stay up to date with all things SAP by following us on social media.
 
 ## Social Media
 
-Facebook: @SAPEvents
-Twitter: @SAPEvents
-Instagram: @SAPEvents
+Facebook: @SAPEvents <br />
+Twitter: @SAPEvents <br />
+Instagram: @SAPEvents <br />
 We look forward to hearing from you and helping you bring your event to life!
