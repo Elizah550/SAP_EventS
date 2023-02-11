@@ -1,7 +1,4 @@
-# SAP_EventS
-An event organizing company
-
-SAP - The Ultimate Event Organizing Company
+# **SAP - The Ultimate Event Organizing Company**
 SAP logo
 
 SAP is an event organizing company that provides end-to-end solutions for all your event needs. Whether it's a corporate conference, a wedding, or a music festival, SAP has got you covered. Our team of experts will work with you every step of the way to make sure your event is a huge success.
