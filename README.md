@@ -1,11 +1,6 @@
 # SAP_EventS
 An event organizing company
 
-The national biggest event is in underway.
-
-Stay tuned
-
-
 SAP - The Ultimate Event Organizing Company
 SAP logo
 
